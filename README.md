@@ -2,6 +2,9 @@
 
 Este projeto é um relógio digital simples desenvolvido utilizando as tecnologias web: HTML, CSS e JavaScript. Ele exibe a hora atual em formato de 24 horas, com precisão de segundos.
 
+# Veja o relógio funcionando
+Você pode visualizar o relógio clicando [neste link](https://projeto-relogio-digital.netlify.app/)
+
 ## Funcionalidades
 
 - Exibe a hora atual, incluindo horas, minutos e segundos.
